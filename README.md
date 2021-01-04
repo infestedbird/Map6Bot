@@ -1,5 +1,5 @@
 ####About Map6bot
- wrote Map6bot to help people with reviewing their data logs from the Kia Stinger and Hyungdai G70, The tool should work with other JB4 based logs as well as other Lap3 based logs. It would be trivial to add support for other platforms. 
+ wrote Map6bot to help people with reviewing their data logs from the Kia Stinger and Hyundai G70, The tool should work with other JB4 based logs as well as other Lap3 based logs. It would be trivial to add support for other platforms. 
 
 ## Future Of Map6Bot
 We want to continue to dev on this project, including a rewrite that allows us to make errors clickable and they would be highlighted in the logs , Better 4cyl detection  ( We've got a solution just needs written) , Externlize the Sensitivity of the application,  Add Min Trigger counts.
